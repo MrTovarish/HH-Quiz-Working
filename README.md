@@ -4,5 +4,5 @@ hosted indefinitely at https://hhquiz.neocities.org/
 
 HTML File contains <style> tags instead of .CSS file
 
-HTML File contains the raw Python code inside <pyscript>
+HTML File contains the raw Python code inside pyscript tags 
 
